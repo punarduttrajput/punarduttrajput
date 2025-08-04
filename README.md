@@ -5,9 +5,15 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/punar-dutt-rajput-269636206/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square" alt="LinkedIn"></a>
-  <a href="mailto:punarduttrajput@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://www.c-sharpcorner.com/members/punar-dutt-rajput"><img src="https://img.shields.io/badge/CSharpCorner-Articles-orange?logo=c-sharp&style=flat-square" alt="C# Corner"></a>
+  <a href="https://www.linkedin.com/in/punar-dutt-rajput-269636206/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square" alt="LinkedIn">
+  </a>
+  <a href="mailto:punarduttrajput@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.c-sharpcorner.com/members/punar-dutt-rajput">
+    <img src="https://img.shields.io/badge/CSharpCorner-Articles-orange?logo=c-sharp&style=flat-square" alt="C# Corner">
+  </a>
   <img src="https://komarev.com/ghpvc/?username=punardutt&style=flat-square&color=blue" alt="Profile Views" />
 </p>
 
@@ -22,37 +28,45 @@ I'm a passionate full stack developer with over **2 years** of experience buildi
 ## 🛠️ Tech Stack
 
 ### 🖥️ Web & Backend  
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)  
-![ASP.NET](https://img.shields.io/badge/-ASP.NET-5C2D91?style=flat&logo=dotnet&logoColor=white)  
-![Blazor](https://img.shields.io/badge/-Blazor-512BD4?style=flat&logo=blazor&logoColor=white)  
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)  
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![.NET Core](https://img.shields.io/badge/-.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Blazor](https://img.shields.io/badge/-Blazor-512BD4?style=flat&logo=blazor&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 
 ### 🧠 Blockchain  
-![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity&logoColor=white)  
-![NEAR Protocol](https://img.shields.io/badge/-NEAR-black?style=flat&logo=near&logoColor=white)  
-![Polygon](https://img.shields.io/badge/-Polygon-8247E5?style=flat&logo=polygon&logoColor=white)  
-![Solana](https://img.shields.io/badge/-Solana-00FFA3?style=flat&logo=solana&logoColor=black)  
+![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity&logoColor=white)
+![NEAR Protocol](https://img.shields.io/badge/-NEAR-black?style=flat&logo=near&logoColor=white)
+![Polygon](https://img.shields.io/badge/-Polygon-8247E5?style=flat&logo=polygon&logoColor=white)
+![Solana](https://img.shields.io/badge/-Solana-00FFA3?style=flat&logo=solana&logoColor=black)
 ![Avalanche](https://img.shields.io/badge/-Avalanche-E84142?style=flat&logo=avalanche&logoColor=white)
+![Hyperledger Fabric](https://img.shields.io/badge/-Hyperledger%20Fabric-1C1C1C?style=flat&logo=hyperledger&logoColor=white)
 
 ### 💾 Database  
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)  
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
 ### 💻 Programming Languages  
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ### 🔧 Tools & Platforms  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio%202022-5C2D91?style=flat&logo=visualstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![Nmap](https://img.shields.io/badge/-Nmap-0078D7?style=flat&logo=windows-terminal&logoColor=white)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-268BEE?style=flat&logo=kalilinux&logoColor=white)
+![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat&logo=microsoft&logoColor=white)
 
 ---
 
@@ -72,7 +86,7 @@ Tech: `Django`, `PostgreSQL`, `Avalanche Blockchain`
 
 🔹 **C# Corner – Events Module**  
 Enhanced event management UI/UX.  
-Tech: `ASP.NET`, `MVC`, `JavaScript`
+Tech: `.NET Core`, `MVC`, `JavaScript`
 
 ---
 
@@ -85,9 +99,9 @@ Tech: `ASP.NET`, `MVC`, `JavaScript`
 
 ## 🤝 Let's Connect
 
-- 📧 Email: [punarduttrajput@gmail.com](mailto:punarduttrajput@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/punar-dutt-rajput-269636206](https://www.linkedin.com/in/punar-dutt-rajput-269636206/)  
-- ✍️ C# Corner: [Profile](https://www.c-sharpcorner.com/members/punar-dutt-rajput)
+- 📧 [punarduttrajput@gmail.com](mailto:punarduttrajput@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/punar-dutt-rajput-269636206/)  
+- ✍️ [C# Corner Articles](https://www.c-sharpcorner.com/members/punar-dutt-rajput)
 
 ---
 
