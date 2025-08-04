@@ -1,89 +1,102 @@
-# 👋 Hi, I'm Punar Dutt Rajput
+<h1 align="center">👋 Hi, I'm Punar Dutt Rajput</h1>
 
-🚀 Full Stack .NET Core Developer | Blockchain Enthusiast | Creative Problem Solver
+<p align="center">
+  🚀 Full Stack .NET Core Developer | 🧱 Blockchain Enthusiast | 🧠 Creative Problem Solver
+</p>
 
----
-
-### 🧑‍💻 About Me
-
-I'm a passionate full stack developer with over 2 years of experience building scalable and secure web applications. My expertise spans across .NET Core, Angular, SQL Server, and modern blockchain technologies. I thrive in collaborative environments and love tackling complex problems with clean, maintainable code.
-
----
-
-### 🛠️ Tech Stack
-
-**Web & Backend**  
-- ASP.NET Core MVC / Web API  
-- Blazor Server  
-- HTML, CSS, JavaScript, XML  
-- Angular  
-- Python (Django)  
-
-**Database**  
-- SQL Server  
-- PostgreSQL  
-
-**Blockchain**  
-- NEAR Protocol  
-- Polygon  
-- Solana  
-- Avalanche  
-- Solidity  
-
-**Languages**  
-- C#  
-- Rust  
-- Python  
-- C/C++  
-
-**Tools & Platforms**  
-- Git, GitHub, Docker  
-- VS Code, Jira  
+<p align="center">
+  <a href="https://www.linkedin.com/in/punar-dutt-rajput-269636206/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square" alt="LinkedIn"></a>
+  <a href="mailto:punarduttrajput@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://www.c-sharpcorner.com/members/punar-dutt-rajput"><img src="https://img.shields.io/badge/CSharpCorner-Articles-orange?logo=c-sharp&style=flat-square" alt="C# Corner"></a>
+  <img src="https://komarev.com/ghpvc/?username=punardutt&style=flat-square&color=blue" alt="Profile Views" />
+</p>
 
 ---
 
-### 📈 Projects
+## 🧑‍💻 About Me
 
-🔹 **EZFastMedicalCard**  
-Medical Marijuana card platform that bridges patients and U.S. medical authorities. Built using **.NET Core MVC** with **SQL Server**, integrated with third-party APIs for real-time operations.  
-[Visit Site](https://ezfastmedicalcard.com/)
+I'm a passionate full stack developer with over **2 years** of experience building scalable and secure web applications. I specialize in `.NET Core`, `Angular`, and `blockchain` integrations across various protocols. I enjoy solving complex problems with clean, efficient, and maintainable code.
 
-🔹 **MAPay Credentialing**  
-A blockchain-based healthcare credentialing platform for MAPay Bermuda. Built with **.NET Core API**, **Blazor**, and **PostgreSQL**.  
-[Visit Site](https://bermuda.mapay.com/)
+---
+
+## 🛠️ Tech Stack
+
+### 🖥️ Web & Backend  
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)  
+![ASP.NET](https://img.shields.io/badge/-ASP.NET-5C2D91?style=flat&logo=dotnet&logoColor=white)  
+![Blazor](https://img.shields.io/badge/-Blazor-512BD4?style=flat&logo=blazor&logoColor=white)  
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)  
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+
+### 🧠 Blockchain  
+![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity&logoColor=white)  
+![NEAR Protocol](https://img.shields.io/badge/-NEAR-black?style=flat&logo=near&logoColor=white)  
+![Polygon](https://img.shields.io/badge/-Polygon-8247E5?style=flat&logo=polygon&logoColor=white)  
+![Solana](https://img.shields.io/badge/-Solana-00FFA3?style=flat&logo=solana&logoColor=black)  
+![Avalanche](https://img.shields.io/badge/-Avalanche-E84142?style=flat&logo=avalanche&logoColor=white)
+
+### 💾 Database  
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+
+### 💻 Programming Languages  
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+
+### 🔧 Tools & Platforms  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)
+
+---
+
+## 📈 Featured Projects
+
+🔹 **[EZFastMedicalCard](https://ezfastmedicalcard.com/)**  
+Medical Marijuana card platform connecting patients with U.S. medical authorities.  
+Tech: `.NET Core MVC`, `SQL Server`, Third-party API integration  
+
+🔹 **[MAPay Bermuda Credentialing](https://bermuda.mapay.com/)**  
+Blockchain-based healthcare credentialing system.  
+Tech: `.NET Core`, `Blazor`, `PostgreSQL`, `Healthcare Blockchain`
 
 🔹 **MPAYZ Web Wallet**  
-Replaced Algorand blockchain integration with Avalanche. Built with **Django (Python)**, **PostgreSQL**, and blockchain wallet features for handling MPayz token.
+Replaced Algorand with Avalanche for MPayz token integration.  
+Tech: `Django`, `PostgreSQL`, `Avalanche Blockchain`
 
 🔹 **C# Corner – Events Module**  
-Contributed to feature development and user experience enhancements for event creation and management using **ASP.NET**.
+Enhanced event management UI/UX.  
+Tech: `ASP.NET`, `MVC`, `JavaScript`
 
 ---
 
-### 📚 Education
+## 🎓 Education
 
-**Master of Computer Application**  
-Chhatrapati Shahu Ji Maharaj University, Kanpur  
-
-**Bachelor of Computer Application**  
-Chhatrapati Shahu Ji Maharaj University, Kanpur  
+📘 **MCA** — Chhatrapati Shahu Ji Maharaj University  
+📗 **BCA** — Chhatrapati Shahu Ji Maharaj University
 
 ---
 
-### 🤝 Let's Connect
+## 🤝 Let's Connect
 
 - 📧 Email: [punarduttrajput@gmail.com](mailto:punarduttrajput@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/punar-dutt-rajput-269636206](https://www.linkedin.com/in/punar-dutt-rajput-269636206/)  
-- 📝 Articles: [C# Corner Profile](https://www.c-sharpcorner.com/)
+- 💼 LinkedIn: [linkedin.com/in/punar-dutt-rajput-269636206](https://www.linkedin.com/in/punar-dutt-rajput-269636206/)  
+- ✍️ C# Corner: [Profile](https://www.c-sharpcorner.com/members/punar-dutt-rajput)
 
 ---
 
-### ⚡ Fun Facts
+## ⚡ Fun Facts
 
-- 🔍 Blockchain explorer in training  
-- 💡 I love clean code, smooth UI/UX, and debugging challenges  
-- 🌱 Currently learning advanced Angular and distributed systems  
+- 🔍 I’m diving deep into blockchain infrastructure and Web3  
+- 🎯 I enjoy refactoring legacy systems with clean architecture  
+- 🌱 Currently learning: `NgRx`, `Distributed Systems`, and `Solidity Advanced Patterns`
 
 ---
 
-Thanks for stopping by! ⭐
+<p align="center">⭐️ Thanks for visiting my profile! ⭐️</p>
