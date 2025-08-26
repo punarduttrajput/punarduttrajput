@@ -109,7 +109,7 @@ Tech: `.NET Core`, `MVC`, `JavaScript`
 
 - 🔍 I’m diving deep into blockchain infrastructure and Web3  
 - 🎯 I enjoy refactoring legacy systems with clean architecture  
-- 🌱 Currently learning: `NgRx`, `Distributed Systems`, and `Rust and Hyperledger Advanced Patterns`
+- 🌱 Currently learning: `NgRx`, `Distributed Systems`, and `Rust, Hyperledger Advanced Patterns`
 
 ---
 
