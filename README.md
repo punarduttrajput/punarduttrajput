@@ -11,7 +11,7 @@
   <a href="mailto:punarduttrajput@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-%23114836.svg?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.c-sharpcorner.com/members/punar-dutt-rajput">
+  <a href="https://www.c-sharpcorner.com/members/punardutt-rajput">
     <img src="https://img.shields.io/badge/CSharp_Corner-orange?style=flat&logo=c-sharp&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=punardutt&style=flat&color=brightgreen" alt="Profile Views" />
@@ -101,7 +101,7 @@ Tech: `.NET Core`, `MVC`, `JavaScript`
 
 - 📧 [punarduttrajput@gmail.com](mailto:punarduttrajput@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/punar-dutt-rajput-269636206/)  
-- ✍️ [C# Corner Articles](https://www.c-sharpcorner.com/members/punar-dutt-rajput)
+- ✍️ [C# Corner Articles](https://www.c-sharpcorner.com/members/punardutt-rajput)
 
 ---
 
